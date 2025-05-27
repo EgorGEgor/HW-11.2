@@ -21,7 +21,7 @@
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 ### *Ответ:*
-![png](https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/Netology/11.%20Системы%20хранения%20и%20передачи%20данных/02.%20Кеширование%20Redis%5Cmemcached/screenshots/Задание%202.png)
+![png]()
 
 ---
 
@@ -31,7 +31,7 @@
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 ### *Ответ:*
-![png](https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/Netology/11.%20Системы%20хранения%20и%20передачи%20данных/02.%20Кеширование%20Redis%5Cmemcached/screenshots/Задание%203.png)
+![png]()
 
 ---
 
@@ -41,16 +41,8 @@
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 ### *Ответ:*
-![png](https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/Netology/11.%20Системы%20хранения%20и%20передачи%20данных/02.%20Кеширование%20Redis%5Cmemcached/screenshots/Задание%204.png)
+![png]()
 
 ---
 
-### Задание 5*. Работа с числами 
 
-Запишите в Redis ключ key5 со значением типа "int" равным числу 5. Увеличьте его на 5, чтобы в итоге в значении лежало число 10.  
-
-*Приведите скриншот, где будут проделаны все операции и будет видно, что значение key5 стало равно 10.*
-### *Ответ:*
-![png](https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/Netology/11.%20Системы%20хранения%20и%20передачи%20данных/02.%20Кеширование%20Redis%5Cmemcached/screenshots/Задание%205.png)
-
----
