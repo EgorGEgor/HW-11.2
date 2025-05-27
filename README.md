@@ -21,7 +21,7 @@
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 ### *Ответ:*
-![png]()
+![png](https://github.com/EgorGEgor/HW-11.2/blob/main/2.jpg)
 
 ---
 
